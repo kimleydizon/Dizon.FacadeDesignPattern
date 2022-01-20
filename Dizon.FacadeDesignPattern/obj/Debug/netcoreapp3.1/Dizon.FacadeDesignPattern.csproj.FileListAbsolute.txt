@@ -1,0 +1,13 @@
+C:\Users\Kimley\source\repos\Dizon.FacadeDesignPattern\Dizon.FacadeDesignPattern\bin\Debug\netcoreapp3.1\Dizon.FacadeDesignPattern.exe
+C:\Users\Kimley\source\repos\Dizon.FacadeDesignPattern\Dizon.FacadeDesignPattern\bin\Debug\netcoreapp3.1\Dizon.FacadeDesignPattern.deps.json
+C:\Users\Kimley\source\repos\Dizon.FacadeDesignPattern\Dizon.FacadeDesignPattern\bin\Debug\netcoreapp3.1\Dizon.FacadeDesignPattern.runtimeconfig.json
+C:\Users\Kimley\source\repos\Dizon.FacadeDesignPattern\Dizon.FacadeDesignPattern\bin\Debug\netcoreapp3.1\Dizon.FacadeDesignPattern.runtimeconfig.dev.json
+C:\Users\Kimley\source\repos\Dizon.FacadeDesignPattern\Dizon.FacadeDesignPattern\bin\Debug\netcoreapp3.1\Dizon.FacadeDesignPattern.dll
+C:\Users\Kimley\source\repos\Dizon.FacadeDesignPattern\Dizon.FacadeDesignPattern\bin\Debug\netcoreapp3.1\Dizon.FacadeDesignPattern.pdb
+C:\Users\Kimley\source\repos\Dizon.FacadeDesignPattern\Dizon.FacadeDesignPattern\obj\Debug\netcoreapp3.1\Dizon.FacadeDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimley\source\repos\Dizon.FacadeDesignPattern\Dizon.FacadeDesignPattern\obj\Debug\netcoreapp3.1\Dizon.FacadeDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Kimley\source\repos\Dizon.FacadeDesignPattern\Dizon.FacadeDesignPattern\obj\Debug\netcoreapp3.1\Dizon.FacadeDesignPattern.AssemblyInfo.cs
+C:\Users\Kimley\source\repos\Dizon.FacadeDesignPattern\Dizon.FacadeDesignPattern\obj\Debug\netcoreapp3.1\Dizon.FacadeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Kimley\source\repos\Dizon.FacadeDesignPattern\Dizon.FacadeDesignPattern\obj\Debug\netcoreapp3.1\Dizon.FacadeDesignPattern.dll
+C:\Users\Kimley\source\repos\Dizon.FacadeDesignPattern\Dizon.FacadeDesignPattern\obj\Debug\netcoreapp3.1\Dizon.FacadeDesignPattern.pdb
+C:\Users\Kimley\source\repos\Dizon.FacadeDesignPattern\Dizon.FacadeDesignPattern\obj\Debug\netcoreapp3.1\Dizon.FacadeDesignPattern.genruntimeconfig.cache
